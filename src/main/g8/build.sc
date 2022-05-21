@@ -1,6 +1,6 @@
 import mill._, scalalib._
 
-object $name$ extends ScalaModule {
+object $name;format="camel"$ extends ScalaModule {
 
   def scalaVersion = "2.13.8"
   
