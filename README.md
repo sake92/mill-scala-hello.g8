@@ -1,7 +1,7 @@
 This is a [Giter8][g8] template for Scala.
 
 ```
-sbt new scala/scala-seed.g8
+mill -i init sake92/mill-scala-hello.g8
 ```
 
 Template license
