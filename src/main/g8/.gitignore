@@ -2,7 +2,5 @@
 .bsp/
 .metals/
 .vscode/
-null/
-target/
 
-
+out/
